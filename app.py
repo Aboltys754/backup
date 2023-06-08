@@ -1,12 +1,12 @@
 import json
 
-import settingJson
+from settingJson import getPathsFolder
+from checkedPaths import checkedPaths
 
 
 def copyBackup():
-    data = settingJson.getPathsFolder()
-
-    print(data)
+    data = getPathsFolder()
+    checkedPaths(data)
 
 
 copyBackup()
