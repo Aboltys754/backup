@@ -1,1 +1,5 @@
-{"pathCopy": ["C:\\base", "C:\\base", "C:\\base"], "pathBackup": "C:\\base"}
+{
+  "Backup": "C:\\Users\\berdnikov.aleksey\\Desktop\\Python\\backup\\backup",
+  "DateBackup": 5,
+  "File": "C:\\Users\\berdnikov.aleksey\\Desktop\\Python\\backup\\file"
+}
